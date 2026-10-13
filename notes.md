@@ -15,3 +15,8 @@
 | git commit -m "说明" | 生成一次提交 |
 | git log --oneline | 查看提交历史 |
 | git branch | 查看分支 |
+
+## 分支练习
+
+2026-10 我在 feature/add-notes 分支上新增了这一行，
+用来练习"在分支上提交"，不直接改 main。
